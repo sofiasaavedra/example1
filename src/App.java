@@ -3,6 +3,7 @@ public class App {
         System.out.println("Hello, World!");
         byte number= -128;
         System.out.print(number);
+        System.out.print(number);
     }
 }
 
